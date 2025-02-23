@@ -4,7 +4,7 @@
   "main": "app.js",
   "dependencies": {
     "@types/lodash": "^4.14.134",
-    "@types/lodash.isequal": "^4.5.5",
+    "@types/lodash.isequal": "^4.5.8",
     "lodash": "^4.17.11",
     "lodash.isequal": "^4.5.0"
   }
